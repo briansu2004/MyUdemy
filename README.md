@@ -4,6 +4,9 @@ My Udemy
 
 ## GitHub repos
 
+<!-- 
+Don't delete :-)
+
 ### Spark
 
 <https://github.com/rockthejvm>
@@ -16,4 +19,5 @@ My Udemy
 
 ### AWS Lambda
 
-<https://github.com/bharaththippireddy>
+<https://github.com/bharaththippireddy> 
+-->
